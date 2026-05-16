@@ -1,6 +1,6 @@
 <H3>Name: Shehan Shajahan</H3>
-<H3>Register No. 212223240154</H3>
-<H3>Experiment 2</H3>
+<H3>Register No. : 212223240154</H3>
+<H3>Experiment : 2</H3>
 
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
 
@@ -19,7 +19,7 @@ Step 7: Print the results.<br>
 
 ## Program :
 
-```
+```py
 from pgmpy.models import DiscreteBayesianNetwork
 from pgmpy.factors.discrete import TabularCPD
 from pgmpy.inference import VariableElimination
