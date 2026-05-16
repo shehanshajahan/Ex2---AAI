@@ -1,4 +1,4 @@
-<H3>Name: Shehan Shajahan</H3>
+<H3>Name : Shehan Shajahan</H3>
 <H3>Register No. : 212223240154</H3>
 <H3>Experiment : 2</H3>
 
